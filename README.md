@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Satyam Patel <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
-![GitHub followers](https://img.shields.io/github/followers/samir1120k)
+![GitHub followers](https://img.shields.io/github/followers/satyam1120k)
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
@@ -12,13 +12,13 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
 <h2>Summary</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir1120k&theme=nightowl" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam1120k&theme=nightowl" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samir1120k&theme=nightowl" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samir1120k&theme=nightowl&utcOffset=8" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir1120k&theme=nightowl" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyam1120k&theme=nightowl" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satyam1120k&theme=nightowl&utcOffset=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1120k&theme=nightowl" />
 </p>
 
 <h2>🚀 Skills</h2>
@@ -70,24 +70,20 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
 
 <h3 align="left">Top Languages:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samir1120k&show_icons=true&locale=en&layout=compact" alt="samir1120k" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam1120k&show_icons=true&locale=en&layout=compact" alt="satyam1120k" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.leetcode.com/samir1120k" target="blank">
+  <a href="https://www.leetcode.com/satyam1120k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" />
   </a>
-  <a href="https://atcoder.jp/users/samir1120k" target="blank">
-  <img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="AtCoder" width="30" height="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/samir1uzfv" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/samir1120k" target="blank">
+ 
+  
+  <a href="https://codeforces.com/profile/satyam1120k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samir1120k" height="30" width="40" />
   </a>
-   <a href="https://samir1120k.github.io/Profile" target="_blank" rel="noopener noreferrer">
+   <a href="https://satyam1120k.github.io/Profile" target="_blank" rel="noopener noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f98b.svg" alt="Portfolio" width="30" height="40"/>
 </a>
 
