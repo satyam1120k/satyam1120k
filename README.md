@@ -21,7 +21,7 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1120k&theme=nightowl" />
 </p>
 
-<h2>🚀 Skills</h2>
+<!-- <h2>🚀 Skills</h2>
 
 <ul>
   <li><strong>LLMs & Agentic AI:</strong> LangChain, LangGraph, prompt engineering, memory, tools, autonomous agents</li>
@@ -31,64 +31,89 @@ I am Satyam Patel. I am very keen to learn new technologies and use them to eith
   <li><strong>Web UI & Visualization:</strong> Streamlit, Gradio, Three.js, HTML5, CSS3, React</li>
   <li><strong>Optimization Algorithms:</strong> Genetic Algorithm, Hill Climb, Metaheuristics</li>
   <li><strong>Languages & Tools:</strong> Python, C++, JavaScript, Node.js, MySQL, Pandas</li>
-</ul>
+</ul> -->
 
 <h2>🛠 Tech Stack</h2>
 
-<h3 align="left">Languages & Frameworks:</h3>
+<h3 align="left">Tech Stack:</h3>
+
+<!-- Programming Languages -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
 </p>
 
-<h3 align="left">AI/ML Tools & Libraries:</h3>
+<!-- Web Development -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
- 
+  <b>Web Development:</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Other Tools & Technologies:</h3>
+<!-- Data Science & ML -->
 <p align="left">
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/68943945?s=200&v=4" alt="Gradio" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/2048px-Three.js_Icon.svg.png" alt="Three.js" width="40" height="40"/>
-  
+  <b>Data Science & Machine Learning:</b><br>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Top Languages:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam1120k&show_icons=true&locale=en&layout=compact" alt="satyam1120k" />
+<!-- AI / LLM / Advanced -->
+<p align="left">
+  <b>AI / LLM / Advanced:</b><br>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- Computer Vision -->
 <p align="left">
-  <a href="https://www.leetcode.com/satyam1120k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir1120k" height="30" width="40" />
+  <b>Computer Vision:</b><br>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+</p>
+
+<!-- Tools & Platforms -->
+<p align="left">
+  <b>Tools & Platforms:</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>
+
+<!-- Concepts -->
+<p align="left">
+  <b>Concepts:</b><br>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Search%20Algorithms-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predicate%20Logic-green?style=for-the-badge"/>
+</p>
+
+### 🚀 Projects (Coming Soon)
+
+- 🔹 Currently building AI/ML and full-stack projects  
+- 🔹 Will showcase real-world applications using FastAPI, React, and PyTorch
+
+<p align="center">
+  <a href="https://www.leetcode.com/satyam1120k">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white"/>
   </a>
- 
-  
-  <a href="https://codeforces.com/profile/satyam1120k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samir1120k" height="30" width="40" />
+  <a href="https://codeforces.com/profile/satyam1120k">
+    <img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white"/>
   </a>
-   <a href="https://satyam1120k.github.io/Profile" target="_blank" rel="noopener noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f98b.svg" alt="Portfolio" width="30" height="40"/>
-</a>
-
- <a href="https://www.linkedin.com/in/samir1120k/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
+  <a href="https://satyam1120k.github.io/Profile">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samir1120k/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
 </p>
