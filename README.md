@@ -339,7 +339,11 @@ Image processing project focused on grayscale image conversion.
 
 ### 🐍 CONTRIBUTION SNAKE
 
-<img width="95%" src="https://raw.githubusercontent.com/satyam1120k/satyam1120k/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyam1120k/satyam1120k/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyam1120k/satyam1120k/output/github-contribution-grid-snake.svg"/>
+  <img width="95%" src="https://raw.githubusercontent.com/satyam1120k/satyam1120k/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</picture>
 
 </div>
 
