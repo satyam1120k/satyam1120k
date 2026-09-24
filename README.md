@@ -141,7 +141,7 @@ motto:    Another commit. Another step forward.
 <td align="center" width="22%"><b>👨‍💻<br>Languages</b></td>
 <td width="78%">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,r,js,ts,dart,html,css,sql&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,r,js,ts,dart,html,css,sql&theme=dark" alt="Languages"/>
 
 </td>
 </tr>
@@ -167,7 +167,9 @@ motto:    Another commit. Another step forward.
 <td align="center"><b>🌐<br>Development</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flutter,firebase,vite,tailwind&theme=dark" alt="Development"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flutter,androidstudio,firebase,vite,tailwind&theme=dark" alt="Development"/>
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
 
 </td>
 </tr>
@@ -176,7 +178,7 @@ motto:    Another commit. Another step forward.
 <td align="center"><b>⚙️<br>Tools</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,figma&theme=dark" alt="Tools"/>
 <br>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
@@ -318,22 +320,7 @@ Image processing project focused on grayscale image conversion.
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyam1120k&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1120k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-
-<br><br>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=satyam1120k&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-<br><br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyam1120k&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution Activity"/>
-
-<br><br>
-
-### 🏆 TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=satyam1120k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 
 <br><br>
 
