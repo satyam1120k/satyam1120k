@@ -464,6 +464,4 @@ Image processing project focused on grayscale image conversion.
   alt="Footer"
 />
 
-**Made with ❤️ + ☕ + curiosity by Satyam Patel**
-
 </div>
