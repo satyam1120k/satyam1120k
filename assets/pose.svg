@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260">
+  <title>Satyam Patel: AI/ML developer</title>
+  <style>
+    .bone  { stroke:#8B5CF6; stroke-width:3; stroke-linecap:round; fill:none; }
+    .joint { fill:#22D3EE; }
+    .name  { font:700 38px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif; fill:#1F2328; }
+    .sub   { font:400 15px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif; fill:#656D76; }
+    .mono  { font:500 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:#8B5CF6; }
+    .hud   { font:400 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:#8B949E; letter-spacing:1px; }
+    .tag   { font:600 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:#FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill:#E6EDF3; }
+      .sub  { fill:#8B949E; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="typing">
+      <rect x="290" y="154" height="26" width="0">
+        <animate attributeName="width" values="0;356;356;0" keyTimes="0;0.45;0.9;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- ===== detection box ===== -->
+  <rect x="92" y="22" width="146" height="230" fill="none" stroke="#8B5CF6" stroke-opacity="0.2" stroke-dasharray="4 4"/>
+  <g stroke="#8B5CF6" stroke-width="2" fill="none">
+    <path d="M92 36 V22 H106"/>
+    <path d="M224 22 H238 V36"/>
+    <path d="M238 238 V252 H224"/>
+    <path d="M106 252 H92 V238"/>
+  </g>
+
+  <!-- label with flickering confidence -->
+  <rect x="92" y="4" width="88" height="16" rx="3" fill="#8B5CF6"/>
+  <text class="tag" x="98" y="16">person 0.97
+    <animate attributeName="opacity" values="1;0;0" dur="3s" calcMode="discrete" repeatCount="indefinite"/>
+  </text>
+  <text class="tag" x="98" y="16" opacity="0">person 0.98
+    <animate attributeName="opacity" values="0;1;0" dur="3s" calcMode="discrete" repeatCount="indefinite"/>
+  </text>
+  <text class="tag" x="98" y="16" opacity="0">person 0.99
+    <animate attributeName="opacity" values="0;0;1" dur="3s" calcMode="discrete" repeatCount="indefinite"/>
+  </text>
+
+  <!-- scan line -->
+  <line x1="96" x2="234" y1="26" y2="26" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.35">
+    <animate attributeName="y1" values="26;248;26" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="26;248;26" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ground -->
+  <line x1="110" x2="190" y1="246" y2="246" stroke="#8B949E" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== skeleton ===== -->
+  <!-- head -->
+  <circle cx="150" cy="55" r="14" class="bone"/>
+  <circle cx="150" cy="55" r="3" class="joint"/>
+
+  <!-- torso -->
+  <line class="bone" x1="150" y1="69" x2="150" y2="85"/>
+  <line class="bone" x1="128" y1="85" x2="172" y2="85"/>
+  <line class="bone" x1="128" y1="85" x2="138" y2="150"/>
+  <line class="bone" x1="172" y1="85" x2="162" y2="150"/>
+  <line class="bone" x1="138" y1="150" x2="162" y2="150"/>
+
+  <!-- legs -->
+  <polyline class="bone" points="138,150 134,195 132,238"/>
+  <polyline class="bone" points="162,150 166,195 168,238"/>
+
+  <!-- left arm (gentle sway) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 128 85; 4 128 85; 0 128 85" dur="3s" repeatCount="indefinite"/>
+    <polyline class="bone" points="128,85 120,118 116,148"/>
+    <circle class="joint" cx="120" cy="118" r="3.5"/>
+    <circle class="joint" cx="116" cy="148" r="3.5"/>
+  </g>
+
+  <!-- right arm (waving) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 172 85; -8 172 85; 0 172 85" dur="1.6s" repeatCount="indefinite"/>
+    <line class="bone" x1="172" y1="85" x2="200" y2="62"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-25 200 62; 20 200 62; -25 200 62" dur="0.8s" repeatCount="indefinite"/>
+      <line class="bone" x1="200" y1="62" x2="212" y2="32"/>
+      <circle class="joint" cx="212" cy="32" r="3.5"/>
+    </g>
+    <circle class="joint" cx="200" cy="62" r="3.5"/>
+  </g>
+
+  <!-- static keypoints -->
+  <g class="joint">
+    <circle cx="150" cy="85" r="3.5"/>
+    <circle cx="128" cy="85" r="3.5"/>
+    <circle cx="172" cy="85" r="3.5"/>
+    <circle cx="138" cy="150" r="3.5"/>
+    <circle cx="162" cy="150" r="3.5"/>
+    <circle cx="134" cy="195" r="3.5"/>
+    <circle cx="166" cy="195" r="3.5"/>
+    <circle cx="132" cy="238" r="3.5"/>
+    <circle cx="168" cy="238" r="3.5"/>
+  </g>
+
+  <!-- ===== text ===== -->
+  <text class="name" x="290" y="100">Satyam Patel</text>
+  <text class="sub"  x="290" y="130">AI/ML developer · deep learning · computer vision</text>
+
+  <g clip-path="url(#typing)">
+    <text class="mono" x="290" y="172" textLength="350" lengthAdjust="spacing">&gt; teaching machines to see, read, and move</text>
+  </g>
+  <rect x="292" y="160" width="8" height="16" fill="#8B5CF6">
+    <animate attributeName="x" values="292;648;648;292" keyTimes="0;0.45;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="294" cy="218" r="4" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text class="hud" x="306" y="222">KEYPOINTS 17  ·  FPS 30  ·  STATUS: TRAINING</text>
+</svg>
