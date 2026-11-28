@@ -41,7 +41,7 @@ Epoch 12/∞  Greenvale ....................... loss: 0.32   acc: 0.86   ← cur
 | [`grayscale.pt`](https://github.com/satyam1120k/grayscale) | Image processing experiments in grayscale conversion | Python · OpenCV |
 | [`portfolio.pt`](https://satyam1120k.github.io/Profile/) | Where everything else lives | HTML · CSS · JS |
 
-### 🧪 in training: pose guidance
+### 🧪 in training: game development
 
 ```
 prototype → playtest → observe friction → tune feel → polish
