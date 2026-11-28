@@ -18,11 +18,16 @@ $ python train.py --model satyam --epochs ∞
 
 Epoch 1/∞   hello world in python ........... loss: 0.92   acc: 0.31
 Epoch 2/∞   C++ & the DSA grind ............. loss: 0.78   acc: 0.44
-Epoch 3/∞   first neural network ............ loss: 0.61   acc: 0.55
-Epoch 4/∞   computer vision rabbit hole ..... loss: 0.43   acc: 0.68
-Epoch 5/∞   full-stack: React + FastAPI ..... loss: 0.29   acc: 0.79
-Epoch 6/∞   shipped Vantage AI & MediTrack .. loss: 0.18   acc: 0.86
-Epoch 7/∞   real-time pose guidance ......... loss: 0.11   acc: 0.92   ← current
+Epoch 3/∞   Python & Machin Learning ........ loss: 0.70   acc: 0.50
+Epoch 4/∞   first neural network ............ loss: 0.61   acc: 0.55
+Epoch 5/∞   computer vision rabbit hole ..... loss: 0.59   acc: 0.60
+Epoch 6/∞   real-time pose guidance ......... loss: 0.55   acc: 0.63
+Epoch 7/∞   full-stack: React + FastAPI ..... loss: 0.53   acc: 0.68
+Epoch 8/∞   Langchain & Agentic AI .......... loss: 0.48   acc: 0.72
+Epoch 9/∞   shipped Vantage AI & MediTrack .. loss: 0.42   acc: 0.77
+Epoch 10/∞   Javascript & Game Development .. loss: 0.39   acc: 0.81
+Epoch 11/∞   Kara Board Game ................ loss: 0.36   acc: 0.83
+Epoch 12/∞   Greenvale ...................... loss: 0.32   acc: 0.86   ← current
 
 ⚠ early stopping disabled. model is still training.
 ```
