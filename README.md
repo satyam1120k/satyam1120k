@@ -84,9 +84,11 @@ Always happy to talk CV, DSA problems, or side projects. If you're building some
 <br>
 
 ```
-BUG-001   says "one last epoch" at 2 AM
-BUG-002   opens 37 research papers, reads 2
-BUG-003   coffee dependency is not optional
+BUG-001   Obfuscating the past Actions
+BUG-002   don't want to do anything
+BUG-003   Want to die
+BUG-004   2 AM writer
+BUG-005   Single
 STATUS    won't fix
 ```
 
@@ -98,7 +100,35 @@ STATUS    won't fix
 <br>
 
 You clicked. Of course you did.
-That curiosity is the whole job. 🏆 **achievement unlocked: curious visitor**
+That curiosity is the whole job. 🏆 **achievement unlocked: curious visitor** <br>
+fine if you click it already then read it.
+<br>
+
+<div align="center">
+
+### ✍️ *Uncompiled Thoughts*
+
+*Khud hi khud me uljha kirdaar hu main,*  
+*Logon ko lagta hai samajhdaar hu main.*  
+*Jee chahta hai unko seene se laga kar rakhun,*  
+*Magar, jo unka kabhi na ho saka, woh pyaar hu main.*
+
+<br>
+
+*Kahaan se laaun woh lafz jo tujhe sunayi dein,*  
+*Kahaan se laaun woh naseeb jo tujhe mera bana de.*  
+*Haath uthte hain har dua me bas isi talab me,*  
+*Kaash koi karishma ho jo ye doori mita de.*
+
+<br>
+
+*Mohabbat agar lafzon me bayaan hoti toh hum kitaab likh dete,*  
+*Aap muskura kar toh dekhte, hum ye jahaan aapke naam kar dete.*
+
+</div>
+
+
+
 
 </details>
 
