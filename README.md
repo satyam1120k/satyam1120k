@@ -44,8 +44,7 @@ Epoch 12/∞  Greenvale ....................... loss: 0.32   acc: 0.86   ← cur
 ### 🧪 in training: pose guidance
 
 ```
-camera → pose estimation → keypoints → temporal model → spoken feedback
-         MMPose · MoveNet    Kalman      CNN + LSTM        TTS
+prototype → playtest → observe friction → tune feel → polish
 ```
 
 ### 📦 dependencies
