@@ -25,9 +25,9 @@ Epoch 6/∞   real-time pose guidance ......... loss: 0.55   acc: 0.63
 Epoch 7/∞   full-stack: React + FastAPI ..... loss: 0.53   acc: 0.68
 Epoch 8/∞   Langchain & Agentic AI .......... loss: 0.48   acc: 0.72
 Epoch 9/∞   shipped Vantage AI & MediTrack .. loss: 0.42   acc: 0.77
-Epoch 10/∞   Javascript & Game Development .. loss: 0.39   acc: 0.81
-Epoch 11/∞   Kara Board Game ................ loss: 0.36   acc: 0.83
-Epoch 12/∞   Greenvale ...................... loss: 0.32   acc: 0.86   ← current
+Epoch 10/∞  Javascript & Game Development ... loss: 0.39   acc: 0.81
+Epoch 11/∞  Kara Board Game ................. loss: 0.36   acc: 0.83
+Epoch 12/∞  Greenvale ....................... loss: 0.32   acc: 0.86   ← current
 
 ⚠ early stopping disabled. model is still training.
 ```
